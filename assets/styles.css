@@ -1,12 +1,12 @@
 body {
-    background-color: bisque;
+    background-color: bisque (247, 237, 225);
     font-family: PT Serif;
-    color: black
+    color:black (0, 0, 0)
 }
 
 
 footer {
-    background-color: brown;
+    background-color: white;
     color: white;
     bottom: 0;
     position: fixed;
