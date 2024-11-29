@@ -2,15 +2,23 @@
     display: flex;
 }
 
-cartao {
+.cartao{
     margin:1rem 1rem;
     background-color:bisque;
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% -6rem);
+}
+
+.cartao__conteudo{
+    text-aling: center;
+    height: 100%;
 }
 body {
     background-color: white; (255, 254, 252) (247, 237, 225);
     font-family: PT Serif;
     color:black;
-    font-size 20%;
+    font-size: 100%;
 }
 
 
@@ -23,7 +31,7 @@ footer {
     height: 2rem;
 }
 
-footer p {
+footer p{
     text-align: center;
     font-size: 0.7rem;
     margin-top: 0,6rem;
