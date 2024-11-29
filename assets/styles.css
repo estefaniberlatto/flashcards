@@ -1,3 +1,11 @@
+#conteiner {
+    display: flex;
+}
+
+cartao {
+    margin:1rem 1rem;
+    background-color:bisque
+}
 body {
     background-color: white (255, 254, 252) (247, 237, 225);
     font-family: PT Serif;
